@@ -1,6 +1,6 @@
 <img src="https://octodex.github.com/images/welcometocat.png" align="right" height="250px" />
 
-⭐️ Congratulations wijohns8! ⭐️
+⭐️ Congratulations wjohnson-sec! ⭐️
 
 You completed this exercise! Nice work! 🥳
 
